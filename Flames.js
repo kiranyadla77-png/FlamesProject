@@ -103,7 +103,7 @@ NameDetails.addEventListener("click",() =>{
 
         case 'L':
             result = " Flames : Lovers";
-            document.getElementById("imageforresult").innerHTML='<img src="imagesFLAMES/Lovers.png" class="result-image">';
+            document.getElementById("imageforresult").innerHTML='<img src="imagesFLAMES/lovers.png" class="result-image">';
             break;
 
         case 'A':
