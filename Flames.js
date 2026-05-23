@@ -76,7 +76,7 @@ let RemainingLetters = "";
 
 NameDetails.addEventListener("click",() =>{
     
-    alert(`Remaining Letters in Your Nmae : ${RemainingLetters}\nRemaining Letters in Partnner Nmae : ${RemainingLettersPartner}`);
+    alert(`Remaining Letters in Your Name : ${RemainingLetters}\nRemaining Letters in Partnner Name : ${RemainingLettersPartner}`);
 });
     
     let count = arr1.length + arr2.length;
